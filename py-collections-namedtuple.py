@@ -1,0 +1,5 @@
+# https://www.hackerrank.com/challenges/py-collections-namedtuple/problem
+from collections import namedtuple
+n = int(input())
+Student = namedtuple('Student', input().split())
+print(f'{sum(int(Student(*input().split()).MARKS) for _ in range(n)) / n:.2f}')

@@ -1,0 +1,4 @@
+# https://www.hackerrank.com/challenges/introduction-to-regex/problem
+import re
+for _ in range(int(input())):
+    print(bool(re.fullmatch(r'[+-]?[0-9]*\.[0-9]+', input())))
