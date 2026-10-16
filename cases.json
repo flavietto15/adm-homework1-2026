@@ -1,0 +1,616 @@
+{
+  "py-hello-world": [
+    {
+      "input": "",
+      "output": "Hello, World!"
+    }
+  ],
+  "py-if-else": [
+    {
+      "input": "3\n",
+      "output": "Weird"
+    },
+    {
+      "input": "24\n",
+      "output": "Not Weird"
+    }
+  ],
+  "python-arithmetic-operators": [
+    {
+      "input": "3\n2\n",
+      "output": "5\n1\n6"
+    }
+  ],
+  "python-division": [
+    {
+      "input": "3\n2\n",
+      "output": "1\n1.5"
+    }
+  ],
+  "python-loops": [
+    {
+      "input": "3\n",
+      "output": "0\n1\n4"
+    }
+  ],
+  "write-a-function": [
+    {
+      "input": "1900\n",
+      "output": "False"
+    },
+    {
+      "input": "2000\n",
+      "output": "True"
+    }
+  ],
+  "python-print": [
+    {
+      "input": "5\n",
+      "output": "12345"
+    }
+  ],
+  "list-comprehensions": [
+    {
+      "input": "1\n1\n1\n2\n",
+      "output": "[[0, 0, 0], [0, 0, 1], [0, 1, 0], [1, 0, 0], [1, 1, 1]]"
+    }
+  ],
+  "find-second-maximum-number-in-a-list": [
+    {
+      "input": "5\n2 3 6 6 5\n",
+      "output": "5"
+    }
+  ],
+  "nested-list": [
+    {
+      "input": "4\nAda\n10\nBob\n20\nAnn\n20\nZoe\n30\n",
+      "output": "Ann\nBob"
+    }
+  ],
+  "finding-the-percentage": [
+    {
+      "input": "2\nAda 10 20 30\nBob 5 5 5\nAda\n",
+      "output": "20.00"
+    }
+  ],
+  "python-lists": [
+    {
+      "input": "7\nappend 4\ninsert 0 2\nappend 1\nsort\nprint\npop\nprint\n",
+      "output": "[1, 2, 4]\n[1, 2]"
+    }
+  ],
+  "python-tuples": [
+    {
+      "input": "2\n1 2\n",
+      "output": "-3550055125485641917"
+    }
+  ],
+  "swap-case": [
+    {
+      "input": "AbC12\n",
+      "output": "aBc12"
+    }
+  ],
+  "python-string-split-and-join": [
+    {
+      "input": "a b c\n",
+      "output": "a-b-c"
+    }
+  ],
+  "whats-your-name": [
+    {
+      "input": "Ada\nLovelace\n",
+      "output": "Hello Ada Lovelace! You just delved into python."
+    }
+  ],
+  "python-mutations": [
+    {
+      "input": "abracadabra\n5 k\n",
+      "output": "abrackdabra"
+    }
+  ],
+  "find-a-string": [
+    {
+      "input": "AAAA\nAA\n",
+      "output": "3"
+    }
+  ],
+  "string-validators": [
+    {
+      "input": "qA2\n",
+      "output": "True\nTrue\nTrue\nTrue\nTrue"
+    }
+  ],
+  "text-alignment": [
+    {
+      "input": "1\n",
+      "output": "H\nH   H\nH   H\nHHHHH\nH   H\nH   H\n    H"
+    }
+  ],
+  "text-wrap": [
+    {
+      "input": "ABCDEFGHI\n4\n",
+      "output": "ABCD\nEFGH\nI"
+    }
+  ],
+  "designer-door-mat": [
+    {
+      "input": "3 9\n",
+      "output": "---.|.---\n-WELCOME-\n---.|.---"
+    }
+  ],
+  "python-string-formatting": [
+    {
+      "input": "2\n",
+      "output": " 1  1  1  1\n 2  2  2 10"
+    }
+  ],
+  "alphabet-rangoli": [
+    {
+      "input": "3\n",
+      "output": "----c----\n--c-b-c--\nc-b-a-b-c\n--c-b-c--\n----c----"
+    }
+  ],
+  "capitalize": [
+    {
+      "input": "hello   world 2abc\n",
+      "output": "Hello   World 2abc"
+    }
+  ],
+  "the-minion-game": [
+    {
+      "input": "BANANA\n",
+      "output": "Stuart 12"
+    },
+    {
+      "input": "AB\n",
+      "output": "Kevin 2"
+    }
+  ],
+  "merge-the-tools": [
+    {
+      "input": "AABCAAADA\n3\n",
+      "output": "AB\nCA\nAD"
+    }
+  ],
+  "py-introduction-to-sets": [
+    {
+      "input": "4\n1 1 2 3\n",
+      "output": "2.0"
+    }
+  ],
+  "no-idea": [
+    {
+      "input": "3 2\n1 5 3\n3 1\n5 7\n",
+      "output": "1"
+    }
+  ],
+  "symmetric-difference": [
+    {
+      "input": "4\n2 4 5 9\n4\n2 4 11 12\n",
+      "output": "5\n9\n11\n12"
+    }
+  ],
+  "py-set-add": [
+    {
+      "input": "4\nUK\nUSA\nUK\nItaly\n",
+      "output": "3"
+    }
+  ],
+  "py-set-discard-remove-pop": [
+    {
+      "input": "3\n1 2 3\n3\nremove 2\ndiscard 9\npop\n",
+      "output": "3"
+    }
+  ],
+  "py-set-union": [
+    {
+      "input": "3\n1 2 3\n3\n2 3 4\n",
+      "output": "4"
+    }
+  ],
+  "py-set-intersection-operation": [
+    {
+      "input": "3\n1 2 3\n3\n2 3 4\n",
+      "output": "2"
+    }
+  ],
+  "py-set-difference-operation": [
+    {
+      "input": "3\n1 2 3\n3\n2 3 4\n",
+      "output": "1"
+    }
+  ],
+  "py-set-symmetric-difference-operation": [
+    {
+      "input": "3\n1 2 3\n3\n2 3 4\n",
+      "output": "2"
+    }
+  ],
+  "py-set-mutations": [
+    {
+      "input": "3\n1 2 3\n2\nintersection_update 2\n2 3\nupdate 1\n4\n",
+      "output": "9"
+    }
+  ],
+  "py-the-captains-room": [
+    {
+      "input": "3\n1 2 1 2 1 2 9\n",
+      "output": "9"
+    }
+  ],
+  "py-check-subset": [
+    {
+      "input": "2\n2\n1 2\n3\n1 2 3\n2\n1 4\n2\n1 2\n",
+      "output": "True\nFalse"
+    }
+  ],
+  "py-check-strict-superset": [
+    {
+      "input": "1 2 3\n2\n1 2\n1 2 3\n",
+      "output": "False"
+    }
+  ],
+  "collections-counter": [
+    {
+      "input": "3\n2 2 3\n4\n2 10\n2 20\n2 30\n3 40\n",
+      "output": "70"
+    }
+  ],
+  "defaultdict-tutorial": [
+    {
+      "input": "3 2\na\nb\na\na\nc\n",
+      "output": "1 3\n-1"
+    }
+  ],
+  "py-collections-namedtuple": [
+    {
+      "input": "2\nID MARKS NAME\n1 80 Ada\n2 90 Bob\n",
+      "output": "85.00"
+    }
+  ],
+  "py-collections-ordereddict": [
+    {
+      "input": "3\nRED APPLE 5\nBANANA 2\nRED APPLE 7\n",
+      "output": "RED APPLE 12\nBANANA 2"
+    }
+  ],
+  "word-order": [
+    {
+      "input": "4\nbcdef\nabcdefg\nbcde\nbcdef\n",
+      "output": "3\n2 1 1"
+    }
+  ],
+  "py-collections-deque": [
+    {
+      "input": "5\nappend 1\nappendleft 2\nappend 3\npop\npopleft\n",
+      "output": "1"
+    }
+  ],
+  "most-commons": [
+    {
+      "input": "aabbbccde\n",
+      "output": "b 3\na 2\nc 2"
+    }
+  ],
+  "piling-up": [
+    {
+      "input": "2\n6\n4 3 2 1 3 4\n3\n1 3 2\n",
+      "output": "Yes\nNo"
+    }
+  ],
+  "calendar-module": [
+    {
+      "input": "08 05 2015\n",
+      "output": "WEDNESDAY"
+    }
+  ],
+  "python-time-delta": [
+    {
+      "input": "1\nSun 10 May 2015 13:54:36 -0700\nSun 10 May 2015 13:54:36 -0000\n",
+      "output": "25200"
+    }
+  ],
+  "exceptions": [
+    {
+      "input": "3\n1 0\n2 $\n4 2\n",
+      "output": "Error Code: integer division or modulo by zero\nError Code: invalid literal for int() with base 10: '$'\n2"
+    }
+  ],
+  "zipped": [
+    {
+      "input": "2 3\n10 20\n20 30\n30 40\n",
+      "output": "20.0\n30.0"
+    }
+  ],
+  "python-sort-sort": [
+    {
+      "input": "3 2\n9 2\n3 1\n4 1\n1\n",
+      "output": "3 1\n4 1\n9 2"
+    }
+  ],
+  "ginorts": [
+    {
+      "input": "Sorting1234\n",
+      "output": "ginortS1324"
+    }
+  ],
+  "map-and-lambda-expression": [
+    {
+      "input": "5\n",
+      "output": "[0, 1, 1, 8, 27]"
+    }
+  ],
+  "introduction-to-regex": [
+    {
+      "input": "6\n.5\n+.5\n-1.0\n1.\n1\n1e2\n",
+      "output": "True\nTrue\nTrue\nFalse\nFalse\nFalse"
+    }
+  ],
+  "re-split": [
+    {
+      "input": "100,000.000\n",
+      "output": "100\n000\n000"
+    }
+  ],
+  "re-group-groups": [
+    {
+      "input": "..__aa11\n",
+      "output": "a"
+    }
+  ],
+  "re-findall-re-finditer": [
+    {
+      "input": "rabcdeefgyYhFjkIoomnpOeorteeeeet\n",
+      "output": "ee\nIoo\nOeo\neeeee"
+    }
+  ],
+  "re-start-re-end": [
+    {
+      "input": "aaadaa\naa\n",
+      "output": "(0, 1)\n(1, 2)\n(4, 5)"
+    },
+    {
+      "input": "abc\nz\n",
+      "output": "(-1, -1)"
+    }
+  ],
+  "re-sub-regex-substitution": [
+    {
+      "input": "2\na && b || c\na&&b |||| c\n",
+      "output": "a and b or c\na&&b |||| c"
+    }
+  ],
+  "validate-a-roman-number": [
+    {
+      "input": "MMMCMXCIX\n",
+      "output": "True"
+    },
+    {
+      "input": "IIII\n",
+      "output": "False"
+    }
+  ],
+  "validating-the-phone-number": [
+    {
+      "input": "3\n9587456281\n1252478965\n98765432100\n",
+      "output": "YES\nNO\nNO"
+    }
+  ],
+  "validating-named-email-addresses": [
+    {
+      "input": "3\nAda <ada@mail.com>\nBob <1bob@mail.com>\nZoe <z@mail.toolong>\n",
+      "output": "Ada <ada@mail.com>"
+    }
+  ],
+  "hex-color-code": [
+    {
+      "input": "4\n#ABC {\n color: #123; background: #a1B2c3;\n}\n#DEF {}\n",
+      "output": "#123\n#a1B2c3"
+    }
+  ],
+  "html-parser-part-1": [
+    {
+      "input": "1\n<div id=\"x\"><br/></div>\n",
+      "output": "Start : div\n-> id > x\nEmpty : br\nEnd   : div"
+    }
+  ],
+  "html-parser-part-2": [
+    {
+      "input": "3\n<!--one-->Hi\n<!--two\nthree-->\n",
+      "output": ">>> Single-line Comment\none\n>>> Data\nHi\n\n>>> Multi-line Comment\ntwo\nthree"
+    }
+  ],
+  "detect-html-tags-attributes-and-attribute-values": [
+    {
+      "input": "1\n<div id=\"x\"><br/></div>\n",
+      "output": "div\n-> id > x\nbr"
+    }
+  ],
+  "validating-uid": [
+    {
+      "input": "3\nB1CD102354\nB1CDEF2354\nAB12345678\n",
+      "output": "Invalid\nValid\nValid"
+    }
+  ],
+  "validating-credit-card-number": [
+    {
+      "input": "4\n4123456789123456\n5123-4567-8912-3456\n5123-4567-8912-3456-\n4444-4567-8912-3456\n",
+      "output": "Valid\nValid\nInvalid\nInvalid"
+    }
+  ],
+  "validating-postalcode": [
+    {
+      "input": "110000\n",
+      "output": "False"
+    },
+    {
+      "input": "121426\n",
+      "output": "True"
+    }
+  ],
+  "matrix-script": [
+    {
+      "input": "3 2\nA$\n!B\nC%\n",
+      "output": "A C B%"
+    }
+  ],
+  "xml-1-find-the-score": [
+    {
+      "input": "1\n<a x=\"1\"><b y=\"2\" z=\"3\"/></a>\n",
+      "output": "3"
+    }
+  ],
+  "xml2-find-the-maximum-depth": [
+    {
+      "input": "1\n<a><b><c/></b><d/></a>\n",
+      "output": "2"
+    }
+  ],
+  "standardize-mobile-number-using-decorators": [
+    {
+      "input": "3\n07895462130\n919875641230\n7895462130\n",
+      "output": "+91 78954 62130\n+91 78954 62130\n+91 98756 41230"
+    }
+  ],
+  "decorators-2-name-directory": [
+    {
+      "input": "3\nAda One 20 F\nBob Two 9 M\nCia Three 20 F\n",
+      "output": "Mr. Bob Two\nMs. Ada One\nMs. Cia Three"
+    }
+  ],
+  "np-arrays": [
+    {
+      "input": "1 2 -3\n",
+      "output": "[-3.  2.  1.]"
+    }
+  ],
+  "np-shape-reshape": [
+    {
+      "input": "1 2 3 4 5 6 7 8 9\n",
+      "output": "[[1 2 3]\n [4 5 6]\n [7 8 9]]"
+    }
+  ],
+  "np-transpose-and-flatten": [
+    {
+      "input": "2 2\n1 2\n3 4\n",
+      "output": "[[1 3]\n [2 4]]\n[1 2 3 4]"
+    }
+  ],
+  "np-concatenate": [
+    {
+      "input": "1 1 2\n1 2\n3 4\n",
+      "output": "[[1 2]\n [3 4]]"
+    }
+  ],
+  "np-zeros-and-ones": [
+    {
+      "input": "2 2\n",
+      "output": "[[0 0]\n [0 0]]\n[[1 1]\n [1 1]]"
+    }
+  ],
+  "np-eye-and-identity": [
+    {
+      "input": "2 2\n",
+      "output": "[[ 1.  0.]\n [ 0.  1.]]"
+    }
+  ],
+  "np-array-mathematics": [
+    {
+      "input": "1 2\n4 6\n2 3\n",
+      "output": "[[6 9]]\n[[2 3]]\n[[ 8 18]]\n[[2 2]]\n[[0 0]]\n[[ 16 216]]"
+    }
+  ],
+  "floor-ceil-and-rint": [
+    {
+      "input": "1.2 2.5 3.8\n",
+      "output": "[ 1.  2.  3.]\n[ 2.  3.  4.]\n[ 1.  2.  4.]"
+    }
+  ],
+  "np-sum-and-prod": [
+    {
+      "input": "2 2\n1 2\n3 4\n",
+      "output": "24"
+    }
+  ],
+  "np-min-and-max": [
+    {
+      "input": "2 2\n1 2\n3 4\n",
+      "output": "3"
+    }
+  ],
+  "np-mean-var-and-std": [
+    {
+      "input": "2 2\n1 2\n3 4\n",
+      "output": "[1.5 3.5]\n[1. 1.]\n1.11803398875"
+    }
+  ],
+  "np-dot-and-cross": [
+    {
+      "input": "2\n1 2\n3 4\n1 0\n0 1\n",
+      "output": "[[1 2]\n [3 4]]"
+    }
+  ],
+  "np-inner-and-outer": [
+    {
+      "input": "1 2\n3 4\n",
+      "output": "11\n[[3 4]\n [6 8]]"
+    }
+  ],
+  "np-polynomials": [
+    {
+      "input": "1 0 2\n3\n",
+      "output": "11.0"
+    }
+  ],
+  "np-linear-algebra": [
+    {
+      "input": "2\n1 2\n3 4\n",
+      "output": "-2.0"
+    }
+  ],
+  "birthday-cake-candles": [
+    {
+      "input": "4\n3 2 1 3\n",
+      "output": "2"
+    }
+  ],
+  "kangaroo": [
+    {
+      "input": "0 3 4 2\n",
+      "output": "YES"
+    },
+    {
+      "input": "0 2 5 3\n",
+      "output": "NO"
+    }
+  ],
+  "strange-advertising": [
+    {
+      "input": "3\n",
+      "output": "9"
+    }
+  ],
+  "recursive-digit-sum": [
+    {
+      "input": "148 3\n",
+      "output": "3"
+    },
+    {
+      "input": "0 100000\n",
+      "output": "0"
+    }
+  ],
+  "insertionsort1": [
+    {
+      "input": "5\n2 4 6 8 3\n",
+      "output": "2 4 6 8 8\n2 4 6 6 8\n2 4 4 6 8\n2 3 4 6 8"
+    }
+  ],
+  "insertionsort2": [
+    {
+      "input": "6\n1 4 3 5 6 2\n",
+      "output": "1 4 3 5 6 2\n1 3 4 5 6 2\n1 3 4 5 6 2\n1 3 4 5 6 2\n1 2 3 4 5 6"
+    }
+  ]
+}
