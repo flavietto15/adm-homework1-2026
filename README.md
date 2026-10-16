@@ -63,7 +63,7 @@ HackerRank editorials and other users' solution files were not used to produce
 these solutions. Official challenge pages were consulted to check the inventory
 and selected format requirements.
 
-Local checks do not establish acceptance by HackerRank. `manifest.json` records
+Local checks do not establish acceptance by HackerRank. The audit on 17 October 2026 verified 71 Accepted exercises, five previous unsuccessful submissions awaiting correction, and 21 exercises not yet submitted. Further updates will appear in this same repository. `manifest.json` records
 verified submission status; no successful submissions or evidence are invented.
 The Google Form must be completed only after the actual submission evidence is
 available and reviewed.

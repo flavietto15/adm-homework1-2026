@@ -3,457 +3,533 @@
     "category": "01-introduction",
     "slug": "py-hello-world",
     "path": "py-hello-world.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "01-introduction",
     "slug": "py-if-else",
     "path": "py-if-else.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "01-introduction",
     "slug": "python-arithmetic-operators",
     "path": "python-arithmetic-operators.py",
-    "status": "not_submitted"
+    "status": "submitted_wrong_answer",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "01-introduction",
     "slug": "python-division",
     "path": "python-division.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "01-introduction",
     "slug": "python-loops",
     "path": "python-loops.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "01-introduction",
     "slug": "write-a-function",
     "path": "write-a-function.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "01-introduction",
     "slug": "python-print",
     "path": "python-print.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "02-basic-data-types",
     "slug": "list-comprehensions",
     "path": "list-comprehensions.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "02-basic-data-types",
     "slug": "find-second-maximum-number-in-a-list",
     "path": "find-second-maximum-number-in-a-list.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "02-basic-data-types",
     "slug": "nested-list",
     "path": "nested-list.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "02-basic-data-types",
     "slug": "finding-the-percentage",
     "path": "finding-the-percentage.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "02-basic-data-types",
     "slug": "python-lists",
     "path": "python-lists.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "02-basic-data-types",
     "slug": "python-tuples",
     "path": "python-tuples.py",
-    "status": "not_submitted"
+    "status": "submitted_wrong_answer",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "swap-case",
     "path": "swap-case.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "python-string-split-and-join",
     "path": "python-string-split-and-join.py",
-    "status": "not_submitted"
+    "status": "submitted_wrong_answer",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "whats-your-name",
     "path": "whats-your-name.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "python-mutations",
     "path": "python-mutations.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "find-a-string",
     "path": "find-a-string.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "string-validators",
     "path": "string-validators.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "text-alignment",
     "path": "text-alignment.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "text-wrap",
     "path": "text-wrap.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "designer-door-mat",
     "path": "designer-door-mat.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "python-string-formatting",
     "path": "python-string-formatting.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "alphabet-rangoli",
     "path": "alphabet-rangoli.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "capitalize",
     "path": "capitalize.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "the-minion-game",
     "path": "the-minion-game.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "03-strings",
     "slug": "merge-the-tools",
     "path": "merge-the-tools.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "py-introduction-to-sets",
     "path": "py-introduction-to-sets.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "no-idea",
     "path": "no-idea.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "symmetric-difference",
     "path": "symmetric-difference.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "py-set-add",
     "path": "py-set-add.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "py-set-discard-remove-pop",
     "path": "py-set-discard-remove-pop.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "py-set-union",
     "path": "py-set-union.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "py-set-intersection-operation",
     "path": "py-set-intersection-operation.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "py-set-difference-operation",
     "path": "py-set-difference-operation.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "py-set-symmetric-difference-operation",
     "path": "py-set-symmetric-difference-operation.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "py-set-mutations",
     "path": "py-set-mutations.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "py-the-captains-room",
     "path": "py-the-captains-room.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "py-check-subset",
     "path": "py-check-subset.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "04-sets",
     "slug": "py-check-strict-superset",
     "path": "py-check-strict-superset.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "05-collections",
     "slug": "collections-counter",
     "path": "collections-counter.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "05-collections",
     "slug": "defaultdict-tutorial",
     "path": "defaultdict-tutorial.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "05-collections",
     "slug": "py-collections-namedtuple",
     "path": "py-collections-namedtuple.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "05-collections",
     "slug": "py-collections-ordereddict",
     "path": "py-collections-ordereddict.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "05-collections",
     "slug": "word-order",
     "path": "word-order.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "05-collections",
     "slug": "py-collections-deque",
     "path": "py-collections-deque.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "05-collections",
     "slug": "most-commons",
     "path": "most-commons.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "05-collections",
     "slug": "piling-up",
     "path": "piling-up.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "06-date-time",
     "slug": "calendar-module",
     "path": "calendar-module.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "06-date-time",
     "slug": "python-time-delta",
     "path": "python-time-delta.py",
-    "status": "not_submitted"
+    "status": "submitted_wrong_answer",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "07-exceptions",
     "slug": "exceptions",
     "path": "exceptions.py",
-    "status": "not_submitted"
+    "status": "submitted_wrong_answer",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "08-built-ins",
     "slug": "zipped",
     "path": "zipped.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "08-built-ins",
     "slug": "python-sort-sort",
     "path": "python-sort-sort.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "08-built-ins",
     "slug": "ginorts",
     "path": "ginorts.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "09-functionals",
     "slug": "map-and-lambda-expression",
     "path": "map-and-lambda-expression.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "introduction-to-regex",
     "path": "introduction-to-regex.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "re-split",
     "path": "re-split.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "re-group-groups",
     "path": "re-group-groups.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "re-findall-re-finditer",
     "path": "re-findall-re-finditer.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "re-start-re-end",
     "path": "re-start-re-end.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "re-sub-regex-substitution",
     "path": "re-sub-regex-substitution.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "validate-a-roman-number",
     "path": "validate-a-roman-number.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "validating-the-phone-number",
     "path": "validating-the-phone-number.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "validating-named-email-addresses",
     "path": "validating-named-email-addresses.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "hex-color-code",
     "path": "hex-color-code.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "html-parser-part-1",
     "path": "html-parser-part-1.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "html-parser-part-2",
     "path": "html-parser-part-2.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "detect-html-tags-attributes-and-attribute-values",
     "path": "detect-html-tags-attributes-and-attribute-values.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "validating-uid",
     "path": "validating-uid.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "validating-credit-card-number",
     "path": "validating-credit-card-number.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "validating-postalcode",
     "path": "validating-postalcode.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "10-regex-parsing",
     "slug": "matrix-script",
     "path": "matrix-script.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "11-xml",
     "slug": "xml-1-find-the-score",
     "path": "xml-1-find-the-score.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "11-xml",
     "slug": "xml2-find-the-maximum-depth",
     "path": "xml2-find-the-maximum-depth.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "12-decorators",
     "slug": "standardize-mobile-number-using-decorators",
     "path": "standardize-mobile-number-using-decorators.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "12-decorators",
     "slug": "decorators-2-name-directory",
     "path": "decorators-2-name-directory.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "13-numpy",

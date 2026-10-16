@@ -95,6 +95,10 @@
     {
       "input": "a b c\n",
       "output": "a-b-c"
+    },
+    {
+      "input": "a  b\n",
+      "output": "a--b"
     }
   ],
   "whats-your-name": [
@@ -155,6 +159,10 @@
     {
       "input": "hello   world 2abc\n",
       "output": "Hello   World 2abc"
+    },
+    {
+      "input": "hELLO   wORLD\n",
+      "output": "HELLO   WORLD"
     }
   ],
   "the-minion-game": [
