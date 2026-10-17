@@ -101,8 +101,10 @@
     "category": "03-strings",
     "slug": "python-string-split-and-join",
     "path": "python-string-split-and-join.py",
-    "status": "submitted_wrong_answer",
-    "verified_on": "2026-10-17"
+    "status": "accepted",
+    "verified_on": "2026-10-17",
+    "submission_id": "485441709",
+    "submission_url": "https://www.hackerrank.com/challenges/python-string-split-and-join/submissions/code/485441709"
   },
   {
     "category": "03-strings",
