@@ -346,8 +346,10 @@
     "category": "06-date-time",
     "slug": "python-time-delta",
     "path": "python-time-delta.py",
-    "status": "submitted_wrong_answer",
-    "verified_on": "2026-10-17"
+    "status": "accepted",
+    "verified_on": "2026-10-17",
+    "submission_id": "485439745",
+    "submission_url": "https://www.hackerrank.com/challenges/python-time-delta/submissions/code/485439745"
   },
   {
     "category": "07-exceptions",
