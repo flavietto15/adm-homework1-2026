@@ -353,8 +353,10 @@
     "category": "07-exceptions",
     "slug": "exceptions",
     "path": "exceptions.py",
-    "status": "submitted_wrong_answer",
-    "verified_on": "2026-10-17"
+    "status": "accepted",
+    "verified_on": "2026-10-17",
+    "submission_id": "485439629",
+    "submission_url": "https://www.hackerrank.com/challenges/exceptions/submissions/code/485439629"
   },
   {
     "category": "08-built-ins",
