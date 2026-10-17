@@ -562,7 +562,10 @@
     "category": "13-numpy",
     "slug": "np-transpose-and-flatten",
     "path": "np-transpose-and-flatten.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "submission_id": "485449737",
+    "submission_url": "https://www.hackerrank.com/challenges/np-transpose-and-flatten/submissions/code/485449737",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "13-numpy",
