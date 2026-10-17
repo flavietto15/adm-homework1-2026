@@ -571,7 +571,10 @@
     "category": "13-numpy",
     "slug": "np-concatenate",
     "path": "np-concatenate.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "submission_id": "485451814",
+    "submission_url": "https://www.hackerrank.com/challenges/np-concatenate/submissions/code/485451814",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "13-numpy",
