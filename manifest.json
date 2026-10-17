@@ -553,7 +553,10 @@
     "category": "13-numpy",
     "slug": "np-shape-reshape",
     "path": "np-shape-reshape.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "submission_id": "485447665",
+    "submission_url": "https://www.hackerrank.com/challenges/np-shape-reshape/submissions/code/485447665",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "13-numpy",
