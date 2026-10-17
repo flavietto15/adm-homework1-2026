@@ -50,6 +50,11 @@ only for named pattern variables.
 The Tuples challenge prints Python's native tuple hash, which varies across
 interpreter versions. Keep the requested `hash(tuple(...))` implementation; use
 the interpreter expected by HackerRank rather than hard-coding a sample hash.
+On 17 October, public sample runs using both Python 3 and PyPy 3 returned
+`-3550055125485641917` for `(1, 2)`, while the site expected
+`3713081631934410656`. No additional Tuples submission was made. Python 2 is
+also available but has not been tested; this is a platform/interpreter compatibility
+issue, not evidence of an error by the professor.
 
 ## Authorship and status
 
@@ -63,10 +68,9 @@ HackerRank editorials and other users' solution files were not used to produce
 these solutions. Official challenge pages were consulted to check the inventory
 and selected format requirements.
 
-Local checks do not establish acceptance by HackerRank. The audit on 17 October 2026 verified 74 Accepted exercises, two previous unsuccessful submissions awaiting correction, and 21 exercises not yet submitted. Further updates will appear in this same repository. `manifest.json` records
+Local checks do not establish acceptance by HackerRank. The audit on 17 October 2026 verified 75 Accepted exercises, one unsuccessful Tuples submission with a Python 3 hash compatibility issue, and 21 exercises not yet submitted. Further updates will appear in this same repository. `manifest.json` records
 verified submission status; no successful submissions or evidence are invented.
-The Google Form must be completed only after the actual submission evidence is
-available and reviewed.
+The official Google Form has been submitted once with this repository URL; updates use the same repository.
 
 ## Assignment links
 

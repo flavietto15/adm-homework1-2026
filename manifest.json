@@ -17,8 +17,10 @@
     "category": "01-introduction",
     "slug": "python-arithmetic-operators",
     "path": "python-arithmetic-operators.py",
-    "status": "submitted_wrong_answer",
-    "verified_on": "2026-10-17"
+    "status": "accepted",
+    "verified_on": "2026-10-17",
+    "submission_id": "485443509",
+    "submission_url": "https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/485443509"
   },
   {
     "category": "01-introduction",
@@ -88,7 +90,8 @@
     "slug": "python-tuples",
     "path": "python-tuples.py",
     "status": "submitted_wrong_answer",
-    "verified_on": "2026-10-17"
+    "verified_on": "2026-10-17",
+    "platform_note": "Run Code only: both Python 3 and Pypy 3 produce -3550055125485641917 for tuple (1, 2); site expects 3713081631934410656. Python 2 is also offered but untested. Native hash retained; no hardcoded output. No new submission made for Tuples."
   },
   {
     "category": "03-strings",
