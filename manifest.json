@@ -580,7 +580,10 @@
     "category": "13-numpy",
     "slug": "np-zeros-and-ones",
     "path": "np-zeros-and-ones.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "submission_id": "485453895",
+    "submission_url": "https://www.hackerrank.com/challenges/np-zeros-and-ones/submissions/code/485453895",
+    "verified_on": "2026-10-17"
   },
   {
     "category": "13-numpy",
