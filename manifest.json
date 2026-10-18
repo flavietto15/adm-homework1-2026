@@ -634,7 +634,10 @@
     "category": "13-numpy",
     "slug": "np-mean-var-and-std",
     "path": "np-mean-var-and-std.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "submission_id": "485518282",
+    "submission_url": "https://www.hackerrank.com/challenges/np-mean-var-and-std/submissions/code/485518282",
+    "verified_on": "2026-10-18"
   },
   {
     "category": "13-numpy",
