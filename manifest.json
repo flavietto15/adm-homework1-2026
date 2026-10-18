@@ -661,7 +661,10 @@
     "category": "13-numpy",
     "slug": "np-polynomials",
     "path": "np-polynomials.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "submission_id": "485531581",
+    "submission_url": "https://www.hackerrank.com/challenges/np-polynomials/submissions/code/485531581",
+    "verified_on": "2026-10-18"
   },
   {
     "category": "13-numpy",
