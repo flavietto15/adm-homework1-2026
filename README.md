@@ -68,7 +68,7 @@ HackerRank editorials and other users' solution files were not used to produce
 these solutions. Official challenge pages were consulted to check the inventory
 and selected format requirements.
 
-Local checks do not establish acceptance by HackerRank. Verification through 18 October 2026 found 82 Accepted exercises, one unsuccessful Tuples submission with a Python 3 hash compatibility issue, and 14 exercises not yet submitted. Further updates will appear in this same repository. `manifest.json` records
+Local checks do not establish acceptance by HackerRank. Verification through 18 October 2026 found 83 Accepted exercises, one unsuccessful Tuples submission with a Python 3 hash compatibility issue, and 13 exercises not yet submitted. Further updates will appear in this same repository. `manifest.json` records
 verified submission status; no successful submissions or evidence are invented.
 The official Google Form has been submitted once with this repository URL; updates use the same repository.
 

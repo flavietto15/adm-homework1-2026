@@ -607,7 +607,10 @@
     "category": "13-numpy",
     "slug": "floor-ceil-and-rint",
     "path": "floor-ceil-and-rint.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "submission_id": "485493955",
+    "submission_url": "https://www.hackerrank.com/challenges/floor-ceil-and-rint/submissions/code/485493955",
+    "verified_on": "2026-10-18"
   },
   {
     "category": "13-numpy",
