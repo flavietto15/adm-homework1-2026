@@ -652,7 +652,10 @@
     "category": "13-numpy",
     "slug": "np-inner-and-outer",
     "path": "np-inner-and-outer.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "submission_id": "485525074",
+    "submission_url": "https://www.hackerrank.com/challenges/np-inner-and-outer/submissions/code/485525074",
+    "verified_on": "2026-10-18"
   },
   {
     "category": "13-numpy",
