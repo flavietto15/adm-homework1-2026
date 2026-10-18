@@ -616,7 +616,10 @@
     "category": "13-numpy",
     "slug": "np-sum-and-prod",
     "path": "np-sum-and-prod.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "submission_id": "485511428",
+    "submission_url": "https://www.hackerrank.com/challenges/np-sum-and-prod/submissions/code/485511428",
+    "verified_on": "2026-10-18"
   },
   {
     "category": "13-numpy",
