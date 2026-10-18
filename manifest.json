@@ -589,7 +589,10 @@
     "category": "13-numpy",
     "slug": "np-eye-and-identity",
     "path": "np-eye-and-identity.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "submission_id": "485472220",
+    "submission_url": "https://www.hackerrank.com/challenges/np-eye-and-identity/submissions/code/485472220",
+    "verified_on": "2026-10-18"
   },
   {
     "category": "13-numpy",
