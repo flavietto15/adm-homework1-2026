@@ -625,7 +625,10 @@
     "category": "13-numpy",
     "slug": "np-min-and-max",
     "path": "np-min-and-max.py",
-    "status": "not_submitted"
+    "status": "accepted",
+    "submission_id": "485515364",
+    "submission_url": "https://www.hackerrank.com/challenges/np-min-and-max/submissions/code/485515364",
+    "verified_on": "2026-10-18"
   },
   {
     "category": "13-numpy",
